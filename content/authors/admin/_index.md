@@ -62,4 +62,4 @@ highlight_name: false
 
 Dan Burrell is a statistician currently working for the University of Southern Queensland as both a bometrician to the Centre for Crop Health, and a statistics lecturer within the School of Sciences. His research interests include applied statistics with a particular bent towards Bayesian statistics and its applications in agriculture (particularly in plant pathology), environment and ecology. He also maintains a strong interest in mathematics and statistics education, numerical analysis and computational mathematics and statistics with programming languages such as R, Python and Julia.   
 
-#{{< icon name="download" pack="fas" >}} Download my {{< #staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< #/staticref >}}.
+<!--{{< icon name="download" pack="fas" >}} Download my {{< #staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< #/staticref >}}.-->
